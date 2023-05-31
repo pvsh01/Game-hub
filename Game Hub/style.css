@@ -1,0 +1,17 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.box{
+    background-color:#ccb3ff;
+}
+
+.body{
+    margin: 70px 250px;
+}
+
+.container{
+    margin-top: 25px;
+    /* padding: 25px; */
+    text-align: center;
+
+}
